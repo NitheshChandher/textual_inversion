@@ -1,0 +1,10 @@
+# Ignore all dependencies from ldm
+ldm/*
+latent_diffusion.egg-info/*
+data/*
+models/*
+scripts/*
+prompts.txt
+logs/*
+__pycache__/*
+ldm/
